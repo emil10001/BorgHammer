@@ -5,11 +5,13 @@ For both hosts and participants, a lot of times doing an Android based code-lab 
 
 This project provides a VirtualBox image, along with instructions, that can be distributed on a flash drive, with everything set up and ready to go. 
 
-* Download the image from here: <not quite ready yet!>
-* Verify the MD5 sum: ---
+* Download the image from here: http://goo.gl/LLKW96
+* Verify the MD5 sum: 247851a5afa883e41d34065fbc881e88
 * Extract the archive, then import the .ova file into VirtualBox 4.3
 * Fire it up
 * Credentials are dev/dev (user/pass)
+* Download the image from here: http://goo.gl/LLKW96
+* Verify the MD5 sum: 247851a5afa883e41d34065fbc881e88
 
 A few notes:
 
@@ -19,8 +21,8 @@ A few notes:
 * Many Glass samples have been pulled down, and imported into AS
 * There should be NO EMULATORS (obvious performance issues)
 * Other things installed:
-** Emacs
-** Maven
-** Vim
-** Java 7
-** Android Studio 1.0 RC1
+    * Emacs
+    * Maven
+    * Vim
+    * Java 7
+    * Android Studio 1.0 RC1
