@@ -5,8 +5,8 @@ For both hosts and participants, a lot of times doing an Android based code-lab 
 
 This project provides a VirtualBox image, along with instructions, that can be distributed on a flash drive, with everything set up and ready to go. 
 
-* Download the image from here: http://goo.gl/LLKW96
-* Verify the MD5 sum: 247851a5afa883e41d34065fbc881e88
+* Download the image from here: http://goo.gl/W6OQA7
+* Verify the MD5 sum: 935f80992c6d4ec638382f9626a2fe7a
 * Extract the archive, then import the .ova file into VirtualBox 4.3
 * Fire it up
 * Credentials are dev/dev (user/pass)
@@ -23,4 +23,4 @@ A few notes:
     * Maven
     * Vim
     * Java 7
-    * Android Studio 1.0 RC1
+    * Android Studio 1.0.2
