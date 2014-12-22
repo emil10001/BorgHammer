@@ -24,3 +24,7 @@ A few notes:
     * Vim
     * Java 7
     * Android Studio 1.0.2
+
+Suggestion:
+
+If you want to use this in your own workshop, pull it down, and try it out first. If you have a specific sample project(s) that you want to use, pull it down, import it, and test it out before putting this on a bunch of flash drives. 
